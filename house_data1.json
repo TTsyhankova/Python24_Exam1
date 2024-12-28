@@ -1,0 +1,211 @@
+{
+    "residents": [
+        {
+            "name": "Петро",
+            "tax_id": "321654987",
+            "birthdate": "1956-12-05",
+            "phone": "066-458-77-11",
+            "email": "sdfghjjkl@ukr.net",
+            "additional_info": "пенсіонер",
+            "apartment": "1"
+        },
+        {
+            "name": "Василь",
+            "tax_id": "123456789",
+            "birthdate": "1938-12-24",
+            "phone": "050-123-45-67",
+            "email": "sdfghj@gmail.com",
+            "additional_info": "старше 80 років",
+            "apartment": "2"
+        },
+        {
+            "name": "Іван",
+            "tax_id": "852963741",
+            "birthdate": "1999-10-30",
+            "phone": "050-789-63-21",
+            "email": "qsxcderfv@com.ua",
+            "additional_info": "має собаку",
+            "apartment": "2"
+        },
+        {
+            "name": "Тарас",
+            "tax_id": "159487263",
+            "birthdate": "1984-10-27",
+            "phone": "099-263-48-75",
+            "email": "ghjk@gmail.com",
+            "additional_info": " має кота",
+            "apartment": "3"
+        },
+        {
+            "name": "Ганна",
+            "tax_id": "112233445",
+            "birthdate": "1936-09-23",
+            "phone": "099-123-45-98",
+            "email": "fgh@com.ua",
+            "additional_info": "старше 80 років",
+            "apartment": "4"
+        },
+        {
+            "name": "Людміла",
+            "tax_id": "159852753",
+            "birthdate": "1985-03-06",
+            "phone": "099-254-12-23",
+            "email": "sdf@gmail.com",
+            "additional_info": " має 2-х дітей",
+            "apartment": null
+        },
+        {
+            "name": "Наталя",
+            "tax_id": "987654321",
+            "birthdate": "2004-11-25",
+            "phone": "068-147-85-22",
+            "email": "fgh@ukr.net",
+            "additional_info": "студентка",
+            "apartment": null
+        },
+        {
+            "name": "Ілля ",
+            "tax_id": "951847623",
+            "birthdate": "2010-05-25",
+            "phone": "099-874-52-33",
+            "email": "qaswed@gmail.com",
+            "additional_info": "школяр",
+            "apartment": null
+        },
+        {
+            "name": "Раїса",
+            "tax_id": "148621159",
+            "birthdate": "1949-05-18",
+            "phone": "099-963-21-47",
+            "email": "sdfgh@gmail.com",
+            "additional_info": "пенсіонерка",
+            "apartment": null
+        },
+        {
+            "name": "Микола",
+            "tax_id": "145236888",
+            "birthdate": "1942-02-22",
+            "phone": "098-452-11-77",
+            "email": "sdf@ukr.net",
+            "additional_info": "інвалід",
+            "apartment": null
+        },
+        {
+            "name": "Федір",
+            "tax_id": "841425368",
+            "birthdate": "1968-04-03",
+            "phone": "095-357-89-62",
+            "email": "cvbnmm@gmail.com",
+            "additional_info": "інвалід",
+            "apartment": null
+        },
+        {
+            "name": "Євген",
+            "tax_id": "481575326",
+            "birthdate": "1986-12-23",
+            "phone": "066-789-56-89",
+            "email": "azxsqwedc@gmail.com",
+            "additional_info": "має кішку",
+            "apartment": null
+        }
+    ],
+    "apartments": [
+        {
+            "number": "1",
+            "entrance": "1",
+            "floors": "5",
+            "floor": "1",
+            "rooms": "1",
+            "residents": [
+                {
+                    "name": "Петро",
+                    "tax_id": "321654987",
+                    "birthdate": "1956-12-05",
+                    "phone": "066-458-77-11",
+                    "email": "sdfghjjkl@ukr.net",
+                    "additional_info": "пенсіонер",
+                    "apartment": "1"
+                }
+            ]
+        },
+        {
+            "number": "2",
+            "entrance": "1",
+            "floors": "5",
+            "floor": "1",
+            "rooms": "2",
+            "residents": [
+                {
+                    "name": "Іван",
+                    "tax_id": "852963741",
+                    "birthdate": "1999-10-30",
+                    "phone": "050-789-63-21",
+                    "email": "qsxcderfv@com.ua",
+                    "additional_info": "має собаку",
+                    "apartment": "2"
+                },
+                {
+                    "name": "Василь",
+                    "tax_id": "123456789",
+                    "birthdate": "1938-12-24",
+                    "phone": "050-123-45-67",
+                    "email": "sdfghj@gmail.com",
+                    "additional_info": "старше 80 років",
+                    "apartment": "2"
+                }
+            ]
+        },
+        {
+            "number": "3",
+            "entrance": "1",
+            "floors": "5",
+            "floor": "1",
+            "rooms": "3",
+            "residents": [
+                {
+                    "name": "Тарас",
+                    "tax_id": "159487263",
+                    "birthdate": "1984-10-27",
+                    "phone": "099-263-48-75",
+                    "email": "ghjk@gmail.com",
+                    "additional_info": " має кота",
+                    "apartment": "3"
+                }
+            ]
+        },
+        {
+            "number": "4",
+            "entrance": "1",
+            "floors": "5",
+            "floor": "1",
+            "rooms": "4",
+            "residents": [
+                {
+                    "name": "Ганна",
+                    "tax_id": "112233445",
+                    "birthdate": "1936-09-23",
+                    "phone": "099-123-45-98",
+                    "email": "fgh@com.ua",
+                    "additional_info": "старше 80 років",
+                    "apartment": "4"
+                }
+            ]
+        },
+        {
+            "number": "5",
+            "entrance": "1",
+            "floors": "5",
+            "floor": "2",
+            "rooms": "1",
+            "residents": []
+        },
+        {
+            "number": "6",
+            "entrance": "1",
+            "floors": "5",
+            "floor": "2",
+            "rooms": "2",
+            "residents": []
+        }
+    ]
+}
